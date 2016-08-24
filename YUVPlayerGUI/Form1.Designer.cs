@@ -38,7 +38,6 @@
             this.CFComboBox = new System.Windows.Forms.ComboBox();
             this.loopFlagCBOX = new System.Windows.Forms.CheckBox();
             this.frameLockCBox = new System.Windows.Forms.CheckBox();
-            this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.heightNumericUpDown = new System.Windows.Forms.NumericUpDown();
@@ -144,15 +143,6 @@
             this.frameLockCBox.Text = "静止画として0フレーム目のみ表示する";
             this.frameLockCBox.UseVisualStyleBackColor = true;
             // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(3, 246);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(151, 12);
-            this.label6.TabIndex = 14;
-            this.label6.Text = "Copyright By 2016 kazenone";
-            // 
             // label7
             // 
             this.label7.AutoSize = true;
@@ -227,7 +217,6 @@
             this.Controls.Add(this.heightNumericUpDown);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
-            this.Controls.Add(this.label6);
             this.Controls.Add(this.frameLockCBox);
             this.Controls.Add(this.loopFlagCBOX);
             this.Controls.Add(this.CFComboBox);
@@ -264,7 +253,6 @@
         private System.Windows.Forms.ComboBox CFComboBox;
         private System.Windows.Forms.CheckBox loopFlagCBOX;
         private System.Windows.Forms.CheckBox frameLockCBox;
-        private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.NumericUpDown heightNumericUpDown;

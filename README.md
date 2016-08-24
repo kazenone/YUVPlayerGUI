@@ -27,3 +27,7 @@ https://www.microsoft.com/ja-jp/download/details.aspx?id=49981
 *OpenCVSharp  
 
 各ライブラリのライセンスはauthors.txtに記載してあります  
+
+##本ソフトとソースコードのライセンス  
+このアプリケーションとソースコードにはBSD (3-Clause) Licenseを適用します。  
+詳しくはLICENSE.txtを参照してください。  

@@ -1,3 +1,7 @@
+--------------------------------------------------------------------------------------  
+OpenCv  
+--------------------------------------------------------------------------------------  
+
 IMPORTANT: READ BEFORE DOWNLOADING, COPYING, INSTALLING OR USING. 
 
  By downloading, copying, installing or using the software you agree to this license.
@@ -37,8 +41,9 @@ or tort (including negligence or otherwise) arising in any way out of
 the use of this software, even if advised of the possibility of such damage.
 
 
---------------------------------------------------------------------------------------
-
+--------------------------------------------------------------------------------------  
+OpenCvSharp  
+--------------------------------------------------------------------------------------  
 
 By downloading, copying, installing or using the software you agree to this license.
 If you do not agree to this license, do not download, install,
